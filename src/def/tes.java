@@ -6,5 +6,6 @@ public class tes {
     //fsdfjosf
 	//afj
 	//asjfd
+riti riti
 	
 }
